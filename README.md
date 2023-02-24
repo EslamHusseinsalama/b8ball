@@ -1,16 +1,6 @@
 # b8ball
-
-A new Flutter project.
+Welcome to the 8 Ball App Flutter project! This project is designed to help you create a mobile app that provides randomized answers to user questions using the Flutter framework.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this project, you will be asked to create a mobile app that emulates the popular "Magic 8 Ball" toy. The app will allow the user to ask a question and receive a randomized answer. The app will also have a button to shake the 8 ball to generate a new answer.
